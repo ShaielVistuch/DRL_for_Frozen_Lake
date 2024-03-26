@@ -1,4 +1,5 @@
 Deep-q learning algorithms, using: linear layers, convolution layers, epsilon-greedy, replay memory and\or reward shaping.
+The frozen lake game is a board game in which an agent start on a certain place on the board, and must move to a specific position on the board. The agent must use the shortest path, and without steping on "holes". The "holes" are specific positions on the board that the agent must never step on, and if it does step on them, it loses the game. Winning is done by reaching the goal by navigating around the holes in an optimal matter.
 
 Results depend on the restrictions and algorithm that's being tested. An example:
 
